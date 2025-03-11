@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi! I'm Amir Hendianpour
 
-<!--
-**amirhendianpour/amirhendianpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+💻 Professional developer with expertise in **Python, Java, Kotlin, C, and C++**  
+🔹 Passionate about **AI, Image Processing, and Web Development**  
+🔹 Experienced in **Automation Scripting** for Windows/Linux using Python  
+🔹 Skilled in **Object Detection** and **Semantic Segmentation** with YOLO and U-Net  
+🔹 Proficient in building web APIs using **FastAPI** and **Flask**  
+🔹 Android development with **Java** and **Kotlin**  
+🔹 Proficient in **Linux**, **Git**, and **WordPress**
 
-Here are some ideas to get you started:
+## Skills
+✅ **AI and Machine Learning:** TensorFlow, YOLOv8, YOLOv11, U-Net  
+✅ **Image Processing:** OpenCV  
+✅ **Web Development:** FastAPI, Flask, HTML, CSS  
+✅ **Android Development:** Java, Kotlin  
+✅ **Automation and Scripting:** Python for Windows/Linux  
+✅ **Version Control:** Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🚀 **Object Detection with YOLO**  
+🚀 **Semantic Segmentation with U-Net**  
+🚀 **Automation Scripts for Windows with Python**  
+🚀 **Building Web APIs with FastAPI**  
+
+## Contact Info
+📧 Email: [amir.hendianpour@gmail.com](mailto:amir.hendianpour@gmail.com)  
+🔗 [GitHub](https://github.com/amirhendianpour)
+
